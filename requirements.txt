@@ -1,0 +1,9 @@
+duckdb
+pandas
+streamlit
+matplotlib
+numpy
+seaborn
+plotly
+faker
+pyspark
